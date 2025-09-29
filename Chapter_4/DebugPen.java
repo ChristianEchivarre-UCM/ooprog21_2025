@@ -1,4 +1,4 @@
-package first;
+
 public class DebugPen
 {
 private String color;
