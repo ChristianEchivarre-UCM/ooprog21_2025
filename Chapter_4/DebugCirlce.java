@@ -1,3 +1,4 @@
+package first;
 public class DebugCircle{
 private int radius;
 private int diameter;
